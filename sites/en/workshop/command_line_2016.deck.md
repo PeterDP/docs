@@ -45,7 +45,7 @@ This is what is inside.  Inside the Explorer or the Finder. Under the pretty GUI
 * **On Windows:** open up Git Shell from your desktop or All Programs menu.
 * **On Linux:** press Ctrl + Alt + T or Find Terminal under the Accessories category of your applications menu.
 * **On Chromebook:** From the [boxes page](https://www.nitrous.io/app#/boxes), click the "IDE" button. The command line window should appear at the bottom of the screen under the "Console" tab.
-* If you want to follow along, please go to: http://docs.railsbridgeboston.org/ruby/command_line_2016
+* If you want to follow along, please go to: http://docs.railsbridgeboston.org/workshop/command_line_2016
 
 # Different Terminals
 
